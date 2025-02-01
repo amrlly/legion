@@ -1,0 +1,1 @@
+echo 0 | doas tee /sys/bus/platform/drivers/ideapad_acpi/VPC2004*/conservation_mode
